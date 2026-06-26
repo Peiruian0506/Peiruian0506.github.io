@@ -3,80 +3,66 @@ secondary_name: ""
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Master Student in Tourism Management
-# - name: Position 2 without logo
-
+- name: "Master Student in Tourism Management"
 
 email: "PRA506@outlook.com"
-cv_link: /assets/CV/cv.pdf  #IDK
+cv_link: "/assets/CV/cv.pdf"
 
-github: Peiruian0506
-twitter: Jasperli0122  # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechat.jpg
-
-linkedin: ruian-pei-a99a7538b
-orcid: 0009-0004-1768-8080
-
+github: "Peiruian0506"
+linkedin: "ruian-pei-a99a7538b"
+orcid: "0009-0004-1768-8080"
 
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    I am a master's student in Tourism Management at 
-    <a href="https://www.nwnu.edu.cn/" target="_blank">Northwest Normal University</a>. 
-    My research focuses on ecosystem services, landscape transformation, sustainable tourism, 
+    I am a master's student in Tourism Management at Northwest Normal University.
+    My research focuses on ecosystem services, landscape transformation, sustainable tourism,
     and GIS-based spatial analysis.
   </p>
 
- <p>
-    My current research examines the spatiotemporal differentiation, trade-offs, and synergies of 
-    ecosystem services in national parks and urban agglomerations. I am particularly interested in 
-    integrating ecological, cultural, and socio-economic dimensions of landscape value into sustainable 
-    land-use planning and regional governance.
+  <p>
+    My research examines the spatiotemporal differentiation, trade-offs, and synergies of
+    ecosystem services in national parks and urban agglomerations. I am particularly interested
+    in integrating ecological, cultural, and socio-economic dimensions of landscape value into
+    sustainable land-use planning and regional governance.
   </p>
 
   <p>
-    I use GIS, remote sensing, spatial modeling, and statistical methods to support ecosystem service 
-    assessment, landscape planning, tourism resource evaluation, and place sustainability. My broader 
-    research interests include nature-based approaches to climate adaptation, human well-being, and 
-    planning decision-making in rapidly urbanising landscapes.
+    I use GIS, remote sensing, spatial modeling, and statistical methods to support ecosystem
+    service assessment, landscape planning, tourism resource evaluation, and place sustainability.
   </p>
 
-portrait_url: /assets/images/photos/profile.jpg
-portrait_caption: >-
-  Ruian Pei
+portrait_url: "/assets/images/photos/profile.jpg"
+portrait_caption: "Ruian Pei"
 
 education:
-- name: Northwest Normal University
-  position: Master of Management in Tourism Management
-  date: Sep. 2023 - Jun. 2026
-- name: Beijing University of Posts and Telecommunications, Century College
-  position: Bachelor of Management in E-commerce
-  date: Sep. 2014 - Jun. 2018
+- name: "Northwest Normal University"
+  position: "Master of Management in Tourism Management"
+  date: "Sep. 2023 - Jun. 2026"
+- name: "Beijing University of Posts and Telecommunications, Century College"
+  position: "Bachelor of Management in E-commerce"
+  date: "Sep. 2014 - Jun. 2018"
 
 experience:
-- name: Spatiotemporal Differentiation and Trade-off Synergy Mechanism of Ecosystem Services in Qilian Mountain National Park
-  position: Principal Investigator | Gansu Provincial Graduate Research Grant Project
-  date: 2024 - 2025
-
-- name: Digital Technology Integration in Suburban Rural Tourism Destinations
-  position: Research Team Member | National Natural Science Foundation of China, Project No. 42401375
-  date: 2024 - 2026
-
-- name: Tourism Resource Survey of Jingning County, Pingliang City, Gansu Province
-  position: Research Assistant | Provincial Government Project
-  date: 2024
-
-- name: Domestic Tourism Market Survey for Gansu Province, Tianshui City
-  position: Research Assistant | Provincial Tourism Administration
-  date: 2024
+- name: "Spatiotemporal Differentiation and Trade-off Synergy Mechanism of Ecosystem Services in Qilian Mountain National Park"
+  position: "Principal Investigator | Gansu Provincial Graduate Research Grant Project"
+  date: "2024 - 2025"
+- name: "Digital Technology Integration in Suburban Rural Tourism Destinations"
+  position: "Research Team Member | National Natural Science Foundation of China, Project No. 42401375"
+  date: "2024 - 2026"
+- name: "Tourism Resource Survey of Jingning County, Pingliang City, Gansu Province"
+  position: "Research Assistant | Provincial Government Project"
+  date: "2024"
+- name: "Domestic Tourism Market Survey for Gansu Province, Tianshui City"
+  position: "Research Assistant | Provincial Tourism Administration"
+  date: "2024"
 
 awards:
-- name: National Graduate Scholarship, Ministry of Education, China
-  date: 2025
-- name: Graduate Research Funding Project of Northwest Normal University, Principal Investigator
-  date: 2025
-- name: Third-Class Professional Scholarship
-  date: 2015 - 2016
-- name: Third-Class Professional Scholarship
-  date: 2014 - 2015
+- name: "National Graduate Scholarship, Ministry of Education, China"
+  date: "2025"
+- name: "Graduate Research Funding Project of Northwest Normal University, Principal Investigator"
+  date: "2025"
+- name: "Third-Class Professional Scholarship"
+  date: "2015 - 2016"
+- name: "Third-Class Professional Scholarship"
+  date: "2014 - 2015"
