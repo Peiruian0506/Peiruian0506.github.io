@@ -40,12 +40,20 @@ navbar_title: Showcase
 .showcase-card {
   background: transparent;
   padding: 0;
-  display: block;
+  display: flex;
+  justify-content: center;
   transition: transform 0.2s ease;
 }
 
 .showcase-card:hover {
   transform: translateY(-4px);
+}
+
+.showcase-card a,
+.showcase-card-inner {
+  display: block;
+  width: 100%;
+  text-decoration: none;
 }
 
 .showcase-card img {
@@ -61,11 +69,7 @@ navbar_title: Showcase
   font-weight: 600;
   line-height: 1.35;
   margin-top: 0.6rem;
-}
-
-.showcase-card a {
-  display: block;
-  text-decoration: none;
+  text-align: left;
 }
 
 .showcase-card a:hover .showcase-card-title {
@@ -108,6 +112,8 @@ navbar_title: Showcase
 
     {% if item.link %}
     <a href="{{ item.link }}" target="_blank">
+    {% else %}
+    <div class="showcase-card-inner">
     {% endif %}
 
       {% if item.image %}
@@ -118,6 +124,8 @@ navbar_title: Showcase
 
     {% if item.link %}
     </a>
+    {% else %}
+    </div>
     {% endif %}
 
   </div>
