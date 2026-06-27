@@ -44,26 +44,32 @@ portrait_caption: >-
 
 education:
 - name: Northwest Normal University
+  logo: /assets/images/badges/empty.png
   position: Master of Management in Tourism Management
   date: Sep. 2023 - Jun. 2026
 - name: Beijing University of Posts and Telecommunications, Century College
+  logo: /assets/images/badges/empty.png
   position: Bachelor of Management in E-commerce
   date: Sep. 2014 - Jun. 2018
 
 experience:
 - name: Spatiotemporal Differentiation and Trade-off Synergy Mechanism of Ecosystem Services in Qilian Mountain National Park
+  logo: /assets/images/badges/empty.png
   position: Principal Investigator | Gansu Provincial Graduate Research Grant Project
   date: 2024 - 2025
 
 - name: Digital Technology Integration in Suburban Rural Tourism Destinations
+  logo: /assets/images/badges/empty.png
   position: Research Team Member | National Natural Science Foundation of China, Project No. 42401375
   date: 2024 - 2026
 
 - name: Tourism Resource Survey of Jingning County, Pingliang City, Gansu Province
+  logo: /assets/images/badges/empty.png
   position: Research Assistant | Provincial Government Project
   date: 2024
 
 - name: Domestic Tourism Market Survey for Gansu Province, Tianshui City
+  logo: /assets/images/badges/empty.png
   position: Research Assistant | Provincial Tourism Administration
   date: 2024
 
