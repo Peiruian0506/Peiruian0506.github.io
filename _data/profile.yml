@@ -43,64 +43,36 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+- name: Northwest Normal University
+  position: Master of Management in Tourism Management
+  date: Sep. 2023 - Jun. 2026
+- name: Beijing University of Posts and Telecommunications, Century College
+  position: Bachelor of Management in E-commerce
+  date: Sep. 2014 - Jun. 2018
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
+- name: Spatiotemporal Differentiation and Trade-off Synergy Mechanism of Ecosystem Services in Qilian Mountain National Park
+  position: Principal Investigator | Gansu Provincial Graduate Research Grant Project
+  date: 2024 - 2025
 
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
+- name: Digital Technology Integration in Suburban Rural Tourism Destinations
+  position: Research Team Member | National Natural Science Foundation of China, Project No. 42401375
+  date: 2024 - 2026
 
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
+- name: Tourism Resource Survey of Jingning County, Pingliang City, Gansu Province
+  position: Research Assistant | Provincial Government Project
+  date: 2024
 
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
-
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
-
+- name: Domestic Tourism Market Survey for Gansu Province, Tianshui City
+  position: Research Assistant | Provincial Tourism Administration
+  date: 2024
 
 awards:
-- name: Doctoral Student Professional Development Award ($1000)
-  date: Apr. 2026
-- name: AAG International Geographic Information Fund ($1200)
-  date: Feb. 2026
-- name: AAG AGSG Annual Meeting Award ($202)
-  date: Feb. 2026
-- name: TAMU Dean's Doctoral Fellowship
-  date: Aug. 2025
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
-  date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
-  date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
-- name: Outstanding Graduate Award
-  date: Jun. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
+- name: National Graduate Scholarship, Ministry of Education, China
+  date: 2025
+- name: Graduate Research Funding Project of Northwest Normal University, Principal Investigator
+  date: 2025
+- name: Third-Class Professional Scholarship
+  date: 2015 - 2016
+- name: Third-Class Professional Scholarship
+  date: 2014 - 2015
