@@ -1,12 +1,11 @@
 ---
-title: "Transit Triumph or Traffic Tangle? Evaluating Los Angeles’ Transit Equity for the 2028 Car-Free Olympics"
-date: 2025-02-28 00:01:00 +0800
-selected: true  # 是否高亮显示 (true/false)
+title: "Ecosystem Service Trade-offs and Synergies in Qilian Mountain National Park"
+date: 2025-01-01 00:01:00 +0800
+selected: true
 
 description: >-
-  This project assesses the feasibility of a “car-free” 2028 Los Angeles Olympics, where all venue access relies on public transport. Using the Two-Step Floating Catchment Area (2SFCA) method, it analyzes accessibility, evaluating infrastructure, population density, and socioeconomic factors. By mapping the accessibility index (AI) across neighborhoods, the study examines whether the transit network can support the event. Future directions explore equity in access and the long-term transportation legacy of the Games.
-cover: /assets/images/covers/Car-free.png
+  Principal Investigator | Northwest Normal University Graduate Research Grant Project (2024–2025). This project assessed five key ecosystem services in Qilian Mountain National Park—water yield, carbon storage, soil conservation, water purification, and habitat quality—using multi-source spatial data from 2002 to 2022, the InVEST model, ArcGIS, Spearman correlation analysis, and geographically weighted regression (GWR). The results revealed spatiotemporal differentiation and trade-off/synergy relationships among ecosystem services, providing scientific support for sustainable national park management. The study was published in Ecological Indicators.
+cover: /assets/images/covers/qilian-project.png
 links:
-  Code: https://arcg.is/Orzjr1
 ---
 
