@@ -1,10 +1,10 @@
 ---
-title: "Spatiotemporal Differentiation and Trade-off Synergy Mechanism of Ecosystem Services in Qilian Mountain National Park"
-date: 2025-01-01 00:01:00 +0800
+title: "Domestic Tourism Market Survey for Gansu Province: Tianshui City"
+date: 2024-12-01 00:01:00 +0800
 selected: true
 
 description: >-
-  Principal Investigator | Northwest Normal University Graduate Research Grant Project (2024–2025). This project examined the spatiotemporal dynamics, hotspot patterns, and trade-off/synergy relationships of key ecosystem services in Qilian Mountain National Park, an important ecological security barrier in Northwest China. Using multi-source spatial datasets from 2002 to 2022, the study assessed five ecosystem services—water yield, carbon storage, soil conservation, water purification, and habitat quality—through the InVEST model, ArcGIS spatial analysis, Spearman correlation analysis, and geographically weighted regression (GWR). The project identified spatial heterogeneity in ecosystem service interactions and proposed management recommendations for coordinated ecological conservation and sustainable national park development. The research outcome was published as: “Spatiotemporal differentiation and trade-offs and synergies of ecosystem services in Qilian Mountains National Park,” Ecological Indicators, JCR Q1, IF 7.4.
-cover: /assets/images/covers/qilian2025.png
+  Research Assistant | Provincial Tourism Administration Project (2024). This project conducted a year-round domestic tourism market survey across Gansu Province, covering quarterly questionnaire collection, data cleaning, statistical analysis, and report writing. I was responsible for the Tianshui City section, including organizing survey data, analyzing tourist source markets, demographic characteristics, travel purposes, accommodation choices, transportation modes, scenic-site visitation, tourism expenditure, and length of stay. The findings provided evidence-based support for understanding tourism demand, market trends, and regional tourism development in Gansu Province.
+cover: /assets/images/covers/gansu-tourism2024.png
 links:
 ---
