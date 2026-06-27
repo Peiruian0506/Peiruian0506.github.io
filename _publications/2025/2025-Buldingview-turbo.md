@@ -1,24 +1,26 @@
 ---
-title:          "BuildingMultiView: Powering Multi-Scale Building Characterization with Large Language Models and Multi-Perspective Imagery"
-date:           2025-02-01 00:01:00 +0800
+title:          "Spatial-Temporal Associations between Tourism Development and Ecosystem Service Values in the Middle Yangtze River Urban Agglomeration and Regional Regulation"
+date:           2026-01-01 00:01:00 +0800
 selected:       true
-#pub:            ""
+pub:            "Journal of Cleaner Production"
 #pub_pre:        ""
-pub_post:       'International Journal of Applied Earth Observation and Geoinformation(JAG)'
+#pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 
-#abstract: >-
-#  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:  /assets/images/covers/2025-Buldingview-tutbo.png
+cover:          assets/images/covers/jcp2026.png
 authors:
-  - Zongrong Li
-  - Yunlei Su
-  - Filip Biljecki
-  - Wufan Zhao#
+  - Ruian Pei
+  - Binbin Ma
+  - Jin Su
+  - et al.
 
 links:
-  Paper: https://doi.org/10.1016/j.jag.2025.105034
-  Code: https://github.com/ai4city-hkust/buildingmultiview
-#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://doi.org/10.1016/j.jclepro.2026.147740
+        
+        
+        
+        
+        
+        
 ---
