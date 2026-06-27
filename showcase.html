@@ -41,7 +41,7 @@ navbar_title: Showcase
   background: transparent;
   padding: 0;
   display: block;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
 .showcase-card:hover {
@@ -55,9 +55,21 @@ navbar_title: Showcase
   display: block;
 }
 
+.showcase-card-title {
+  color: #222222;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-top: 0.6rem;
+}
+
 .showcase-card a {
   display: block;
   text-decoration: none;
+}
+
+.showcase-card a:hover .showcase-card-title {
+  color: #555555;
 }
 
 .showcase-card.hide {
@@ -93,6 +105,7 @@ navbar_title: Showcase
 <div class="showcase-grid">
   {% for item in showcase_items %}
   <div class="showcase-card" data-category="{{ item.category }}">
+
     {% if item.link %}
     <a href="{{ item.link }}" target="_blank">
     {% endif %}
@@ -101,9 +114,12 @@ navbar_title: Showcase
       <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
       {% endif %}
 
+      <div class="showcase-card-title">{{ item.title }}</div>
+
     {% if item.link %}
     </a>
     {% endif %}
+
   </div>
   {% endfor %}
 </div>
