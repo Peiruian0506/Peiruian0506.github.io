@@ -1,11 +1,10 @@
 ---
-title: "Ecosystem Service Trade-offs and Synergies in Qilian Mountain National Park"
-date: 2025-01-01 00:01:00 +0800
+title: "Tourism Resource Survey of Jingning County, Pingliang City, Gansu Province"
+date: 2024-06-01 00:01:00 +0800
 selected: true
 
 description: >-
-  Principal Investigator | Northwest Normal University Graduate Research Grant Project (2024–2025). This project assessed five key ecosystem services in Qilian Mountain National Park—water yield, carbon storage, soil conservation, water purification, and habitat quality—using multi-source spatial data from 2002 to 2022, the InVEST model, ArcGIS, Spearman correlation analysis, and geographically weighted regression (GWR). The results revealed spatiotemporal differentiation and trade-off/synergy relationships among ecosystem services, providing scientific support for sustainable national park management. The study was published in Ecological Indicators (JCR Q1, IF 7.4).
-cover: /assets/images/covers/qilian2025.png
+  Research Assistant | Provincial Government Project (2024). This project systematically surveyed and evaluated the natural and cultural tourism resources of Jingning County, including data collection, field verification, spatial mapping, and database construction. My work focused on conducting field surveys of tourism resources, organizing multi-source data, entering information into the database system, producing tourism resource distribution maps and topographic base maps, and preparing a research report based on the survey findings. The project supported local tourism planning, resource protection, and sustainable development.
+cover: /assets/images/covers/jingning2024.png
 links:
 ---
-
