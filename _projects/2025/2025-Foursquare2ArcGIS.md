@@ -1,14 +1,10 @@
 ---
-title: "Foursquare Open Source Places - POI Data Processing"
-date: 2025-02-06 00:01:00 +0800
-selected: true  # 是否高亮显示 (true/false)
+title: "Digital Intelligence Embedding and the Restructuring of Peri-urban Rural Tourism Sites"
+date: 2026-01-01 00:01:00 +0800
+selected: true
 
 description: >-
-  Foursquare Open Source Places (FSQ OS Places) is a high-quality, open POI (Points of Interest) dataset released by Foursquare, containing over 104 million POIs worldwide. While platforms like OpenStreetMap (OSM) and Overture Maps aim to improve open POI coverage, FSQ OS Places provides a more extensive and precise dataset.
-  This repository provides a step-by-step guide on downloading POI data and converting it from GeoJSON to Shapefile (SHP) for use in ArcGIS Pro, QGIS, and other GIS applications.
-
-cover: /assets/images/covers/Foursquare.png
+  Research Team Member | National Natural Science Foundation of China Project No. 42401375 (2024–2026). This project explores how digital intelligence technologies reshape peri-urban rural tourism sites by influencing rural restructuring, human–land relationships, digital divide, and digital deprivation. My work focused on field investigation, data collection, case-study documentation, and supporting a junior researcher in academic writing and manuscript development.
+cover: /assets/images/covers/rural-tourism2026.png
 links:
-  Code: https://github.com/Jasper0122/Foursquare2ArcGIS
 ---
-
