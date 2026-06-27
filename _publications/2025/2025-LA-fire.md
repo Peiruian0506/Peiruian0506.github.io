@@ -1,25 +1,22 @@
 ---
-title:          "Dynamic Evolution and Multiple Driving Paths of Urban-Rural Integration under Symbiosis Perspective: The Case of the Yellow River Basin in China"
-date:           2026-01-01 00:01:00 +0800
+title:          "Nonlinear Effects and Threshold Regulation of Landscape Pattern Indices on Ecosystem Services: A Case Study of Qilian Mountains National Park"
+date:           2026-06-01 00:01:00 +0800
 selected:       true
-pub:            "Environment, Development and Sustainability"
+pub:            "Journal of Arid Land"
 #pub_pre:        ""
 #pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 
-cover:          assets/images/covers/eds2026.png
+cover:          assets/images/covers/journal-of-arid-land.png
 authors:
-  - M. Yu
-  - B. Ma
-  - J. Su
-  - Ruian Pei (Fourth Author)
+  - Ruian Pei
+  - Binbin Ma
+  - Jin Su
   - et al.
 
 links:
-  Paper: https://doi.org/10.1007/s10668-026-07476-1
-        
-        
-        
+  Paper: https://doi.org/10.1016/j.jaridl.2026.06.004        
+  CSTR: https://doi.org/10.1016/j.jaridl.2026.06.004    
         
 ---
