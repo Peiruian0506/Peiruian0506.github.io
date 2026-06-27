@@ -1,20 +1,25 @@
 ---
-title:          "Spatiotemporal Differentiation and Trade-offs and Synergies of Ecosystem Services in Qilian Mountains National Park"
-date:           2024-01-01 00:01:00 +0800
+title:          "Dynamic Evolution and Multiple Driving Paths of Urban-Rural Integration under Symbiosis Perspective: The Case of the Yellow River Basin in China"
+date:           2026-01-01 00:01:00 +0800
 selected:       true
-pub:            "Ecological Indicators"
+pub:            "Environment, Development and Sustainability"
 #pub_pre:        ""
 #pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2026"
 
-cover:          assets/images/covers/ecological-indicators.png
+cover:          assets/images/covers/eds2026.png
 authors:
-  - Ruian Pei
-  - Binbin Ma
-  - Shuang Liu
+  - M. Yu
+  - B. Ma
+  - J. Su
+  - Ruian Pei (Fourth Author)
   - et al.
 
 links:
-  Paper: https://doi.org/10.1016/j.ecolind.2024.112891
+  Paper: https://doi.org/10.1007/s10668-026-07476-1
+        
+        
+        
+        
 ---
